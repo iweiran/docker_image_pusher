@@ -9,3 +9,4 @@ browserless/chrome:1.43-chrome-stable
 redis:alpine
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
+freshrss/freshrss
