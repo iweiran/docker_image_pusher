@@ -7,5 +7,5 @@ xhofe/alist:latest
 diygod/rsshub
 browserless/chrome:1.43-chrome-stable
 redis:alpine
-ghcr.io/immich-app/immich-server:1.106.4
-ghcr.io/immich-app/immich-machine-learning:1.106.4
+ghcr.io/immich-app/immich-server:1.106.0
+ghcr.io/immich-app/immich-machine-learning:1.106.0
