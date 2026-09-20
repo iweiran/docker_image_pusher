@@ -11,4 +11,3 @@ ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
 freshrss/freshrss
 evershop/evershop
-registry.cn-hangzhou.aliyuncs.com/csdn_mirror/rmbg-2.0:latest
